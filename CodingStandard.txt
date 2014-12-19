@@ -1,0 +1,1 @@
+This file provides help for writing code as per industry standard. 

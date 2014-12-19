@@ -1,0 +1,4 @@
+This is license file having the conditions to use the codes committed on git.
+This applies for all people inside/outside the organization.
+
+We have created a Coding standard file for reference.
